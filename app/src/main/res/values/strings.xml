@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Testing Backend Apis</string>
+    <string name="label_enter_url">Enter Url</string>
+    <string name="check_btn_label">Check</string>
+    <string name="result_label">Result:</string>
+    <string name="response_code_label">Response Code</string>
+    <string name="body_request">Enter Body Request If you use POST method</string>
+    <string name="time_label">Time:</string>
+    <string name="method_type_label">Method Type:</string>
+    <string name="url_label">URL:</string>
+    <string name="add_request_headers_btn">add Request Headers</string>
+    <string name="error_label">Error</string>
+    <string name="request_headers_label">Request Headers</string>
+    <string name="response_headers_label">Response Headers</string>
+    <string name="request_body_label">Request Body</string>
+    <string name="query_paramaters_label">Query Paramaters</string>
+    <string name="response_body_label">Response Body</string>
+    <string name="spinner_method_type">Spinner Method Type</string>
+    <string name="nothing_value">Nothing</string>
+    <string name="header_key_hint">Request Header Key</string>
+    <string name="request_header_value_hint">Request Header Value</string>
+    <string-array name="MethodsType">
+        <item>GET</item>
+        <item>POST</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="sort_with_time">Sort with Time</string>
+    <string name="url">Url</string>
+    <string name="method_type">Method Type</string>
+    <string name="search">Search</string>
+    <string name="sort_list_by_time">Sort List By Time</string>
+</resources>
